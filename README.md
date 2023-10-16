@@ -19,6 +19,7 @@ This was my first time experimenting with APIs. It was very fun to learn how muc
 ### Examples:
 Take a look at similar projects!
 
+Tic-Tac-Toe: https://github.com/JacinthaDev/Tic-Tac-Toe/tree/answer
+
 Avatar The Last Airbender Slot Machine: https://github.com/JacinthaDev/Slot-Machine/tree/answer
 
-Tic-Tac-Toe: https://github.com/JacinthaDev/Tic-Tac-Toe/tree/answer
